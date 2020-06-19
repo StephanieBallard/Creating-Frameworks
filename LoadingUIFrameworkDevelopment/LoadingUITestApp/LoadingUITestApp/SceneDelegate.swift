@@ -1,6 +1,6 @@
 //
 //  SceneDelegate.swift
-//  LoadingUIFrameworkDevelopment
+//  LoadingUITestApp
 //
 //  Created by Stephanie Ballard on 6/18/20.
 //  Copyright © 2020 Stephanie Ballard. All rights reserved.
